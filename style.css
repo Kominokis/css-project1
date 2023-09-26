@@ -67,7 +67,8 @@ ul, a{
 .subtext{
     font-size: 18px;
     font-weight: 300;
-    color:#E5E7EB
+    color:#E5E7EB;
+    padding-right: 20px;
 }
 
 .left-text{
